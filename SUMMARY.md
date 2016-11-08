@@ -21,6 +21,7 @@
 * [Monitoring](server/monitor.md)
 
 ### CTF Problems
+* [Cryptography](problems/crypto.md)
 
 ### Running the CTF
 * [The Night Before](/run/before.md)
