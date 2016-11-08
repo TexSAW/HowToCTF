@@ -8,6 +8,9 @@
 * [Expect the Worst](/forward/problems.md)
 
 ### Preparation
+* [Team Management](/prep/team.md)
+* [Challenge Creation](/prep/challenges.md)
+* [Internal Partnerships](/prep/partners.md)
 
 ### Network Infrastructure
 
