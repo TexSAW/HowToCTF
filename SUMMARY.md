@@ -13,6 +13,7 @@
 * [Internal Partnerships](/prep/partners.md)
 
 ### Network Infrastructure
+* [LAN](/net/lan.md)
 
 ### Server Infrastructure
 
