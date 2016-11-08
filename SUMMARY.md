@@ -24,6 +24,7 @@
 * [Trivia](/problems/trivia.md)
 * [Forensics](/problems/forensics.md)
 * [Web](/problems/web.md)
+* [Remote](/problems/remote.md)
 
 ### Running the CTF
 * [The Night Before](/run/before.md)
