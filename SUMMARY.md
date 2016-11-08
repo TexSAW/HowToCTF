@@ -4,6 +4,8 @@
 
 ### Foreward
 * [Choice of Linux](/forward/manylinux.md)
+* [Automation](/forward/automation.md)
+* [Expect the Worst](/forward/problems.md)
 
 ### Preparation
 
