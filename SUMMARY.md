@@ -20,5 +20,8 @@
 ### CTF Problems
 
 ### Running the CTF
+* [The Night Before](/run/before.md)
+* [The Day Of](/run/during.md)
+* [The Week After](/run/after.md)
 
 ### Conclusion
