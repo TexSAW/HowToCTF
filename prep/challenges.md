@@ -13,7 +13,7 @@ With teams setup the next task is to create challenges.  This process is somewha
 2. Once the problems are decided on, split up the responsibilities for who will work on which problems.  This is a crucial step and the people who claim problems should be able to speak with confidence that they can complete any problem that they have taken on.
 3. Set a due date for problems to be handed off to the infrastructure team.  The due date should be at minimum 2 weeks before the CTF is expected to go live to account for the time needed to load problems into the system as well as time needed to revise any problems that are found to be defective.
 4. Load all the problems into CTFd and confirm that they are displayed correctly and with all information present.
-5. Setup backend infrastructure for any problems that require it.  This can range from servers being provisioned to host exploitable executables or even printing out a physical flag.
+5. Setup back-end infrastructure for any problems that require it.  This can range from servers being provisioned to host exploitable executable challenges or even printing out a physical flag.
 
 
 ## A note on problem difficulty

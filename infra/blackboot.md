@@ -1,5 +1,7 @@
 # Blackboot
 
+This page refers to the concept of a "black-start".  This is a term borrowed from the power industry where it refers to being able to bootstrap a generating station with no external systems available.
+
 ## Spooks and Scares
 Malicious actors, while not necessarily in play in small competitions, should be planned for. It is clearly in a contestant's best interest to disrupt other users if they can do so without being caught. The CTF should be planned as such. Even without a malicious actor, hardware fails, software breaks, and everything that can go wrong will go wrong. Preparing for this, and being able to blackboot (spin up the competition from nothing) is a necessary last ditch effort to keep the CTF successful.
 

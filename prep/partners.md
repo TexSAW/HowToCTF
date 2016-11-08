@@ -12,7 +12,7 @@ Our CS Tech group was instrumental in making sure that we had network access in 
 
 ## Computer Security Group
 
-Our CSG is a student group focused on advocating for security and education.  Since the group often works with exploitables and competes in CTFs, this was an excellent source of information for what makes a good CTF.  Additionally, the CSG maintains a secure a vSphere environment where we were able to host the CTFd instance and problem server for challenges that required server components.
+Our CSG is a student group focused on advocating for security and education.  Since the group often works with exploitable challenges and competes in CTFs, this was an excellent source of information for what makes a good CTF.  Additionally, the CSG maintains a secure a vSphere environment where we were able to host the CTFd instance and problem server for challenges that required server components.
 
 
 ## Linux Users Group

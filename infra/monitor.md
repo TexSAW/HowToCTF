@@ -8,4 +8,4 @@ Monit is extremely lightweight. It requires no back end database, minimal overhe
 
 	CHECK PROCESS <unique name> <PIDFILE <path> | MATCHING <regex>>
 
-In Void Linux, the path to the PIDFILE will be `/var/service/{{ service_name }}/supervise/pid`. With all of the challenges monitored with Monit, it is easy to pull up the webpage and confirm all challenges are up, making it possible to easily detect outages before reports even come it. If nothing else, Monit is great at relieving stress, as it instills confidence in the fact the CTF is not experiencing an outage, at least from the exploitables side.
+In Void Linux, the path to the PIDFILE will be `/var/service/{{ service_name }}/supervise/pid`. With all of the challenges monitored with Monit, it is easy to pull up the web-page and confirm all challenges are up, making it possible to easily detect outages before reports even come it. If nothing else, Monit is great at relieving stress, as it instills confidence in the fact the CTF is not experiencing an outage, at least from the exploitable challenges side.
