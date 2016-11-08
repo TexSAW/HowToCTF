@@ -15,13 +15,17 @@
 ### Network Infrastructure
 * [LAN](/net/lan.md)
 
-### Server Infrastructure
-* [CTFd](server/ctfd.md)
-* [Exploits](server/exploits.md)
-* [Monitoring](server/monitor.md)
+### Infrastructure
+* [vSphere](infra/vsphere.md)
+* [CTFd](infra/ctfd.md)
+* [Exploits](infra/exploits.md)
+* [Monitoring](infra/monitor.md)
 
 ### CTF Problems
 * [Cryptography](problems/crypto.md)
+* [Trivia](problems/trivia.md)
+* [Forensics](problems/forensics.md)
+* [Web](problems/web.md)
 
 ### Running the CTF
 * [The Night Before](/run/before.md)
