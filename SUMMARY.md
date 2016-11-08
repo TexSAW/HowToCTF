@@ -3,6 +3,7 @@
 * [About](README.md)
 
 ### Foreward
+* [Choice of Linux](/forward/manylinux.md)
 
 ### Preparation
 
