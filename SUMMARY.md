@@ -16,6 +16,9 @@
 * [LAN](/net/lan.md)
 
 ### Server Infrastructure
+* [CTFd](server/ctfd.md)
+* [Exploits](server/exploits.md)
+* [Monitoring](server/monitor.md)
 
 ### CTF Problems
 
