@@ -2,10 +2,10 @@
 
 * [About](README.md)
 
-### Foreward
-* [Choice of Linux](/forward/manylinux.md)
-* [Automation](/forward/automation.md)
-* [Expect the Worst](/forward/problems.md)
+### Foreword
+* [Choice of Linux](/foreword/manylinux.md)
+* [Automation](/foreword/automation.md)
+* [Expect the Worst](/foreword/problems.md)
 
 ### Preparation
 * [Team Management](/prep/team.md)
